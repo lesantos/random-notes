@@ -1,6 +1,6 @@
 theme:
-  name: 'tema'
-  custom_dir: 'mkdocs-material/material'
+  name: mkdocs_theme
+  custom_dir: mkdocs-material/material
   
 repo_name: lesantos/random-notes
 repo_url: https://github.com/lesantos/random-notes
