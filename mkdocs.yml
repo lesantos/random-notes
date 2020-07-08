@@ -1,5 +1,5 @@
 theme:
-  name: null
+  name: material
   custom_dir: mkdocs-material/material
   
 repo_name: lesantos/random-notes
